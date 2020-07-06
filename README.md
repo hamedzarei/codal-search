@@ -1,1 +1,1 @@
-Codal's Stock Simple Search
+Simple Search of Codal
