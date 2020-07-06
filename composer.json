@@ -1,0 +1,12 @@
+{
+    "name": "zrhm7232/search",
+    "authors": [
+        {
+            "name": "Hamed Zarei",
+            "email": "hamedzarei.7232@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
