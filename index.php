@@ -24,7 +24,7 @@ $pos = 'افزایش سرمایه';
 while ($while) {
     foreach ($resp['Letters'] as $letter) {
         $publishDate = $letter['PublishDateTime'];
-        $dateQuery = '۱۳۹۹/۰۴/۱۵';
+        $dateQuery = '۱۳۹۹/۰۴/۱۷';
         if (substr($publishDate, 0, strlen($dateQuery)) === $dateQuery) {
             if (strpos($letter['Title'], $pos) !== false) {
                 var_dump($letter['CompanyName']);
